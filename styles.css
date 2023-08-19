@@ -108,7 +108,7 @@ h1, p {
 .controls {
     position: absolute;
     right: 10%;
-    top: 50%;
+    top: 57%;
     transform: translateY(-50%);
     text-align: center;
 }
